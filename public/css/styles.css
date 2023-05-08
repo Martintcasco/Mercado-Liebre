@@ -346,7 +346,7 @@ footer section{
     }
 }
 
-@media (max-width: 769px){
+@media (max-width: 770px){
      
     .descripciones{
         display: inline;
@@ -377,7 +377,7 @@ footer section{
 }
 
    
-@media (min-width: 769px){
+@media (min-width: 770px){
 
     
     .home-banner{
@@ -455,7 +455,7 @@ footer section{
     }
 }
 
-@media (min-width: 1199px){
+@media (min-width: 1200px){
 
     .logo{
         width: 300px;
